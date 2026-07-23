@@ -1,5 +1,5 @@
-# DEMO-REPO
-This is a demo respo to learn git and github.
+# INITIAL PROJECTS 
+This is a demo respo to learn git and github ,DSA in C++ etc .
 <br>
 Author : Harsh
 <br>
