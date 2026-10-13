@@ -13,7 +13,7 @@ return 0 ;
 
 int main (){
     int num ;
-    cout << "ENTER YOU NUMBER : ";
+    cout << "ENTER YOUR NUMBER : ";
     cin >> num ;
  fibonacci(num);
 
